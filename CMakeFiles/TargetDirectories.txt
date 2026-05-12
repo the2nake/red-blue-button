@@ -1,3 +1,0 @@
-/home/vthuong/devel/cpp/red_blue_button/CMakeFiles/template-demo.dir
-/home/vthuong/devel/cpp/red_blue_button/CMakeFiles/edit_cache.dir
-/home/vthuong/devel/cpp/red_blue_button/CMakeFiles/rebuild_cache.dir
