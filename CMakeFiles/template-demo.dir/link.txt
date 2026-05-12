@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -Wl,--dependency-file=CMakeFiles/template-demo.dir/link.d "CMakeFiles/template-demo.dir/src/main.cpp.o" -o template-demo
